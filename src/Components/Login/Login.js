@@ -3,7 +3,8 @@ import React from 'react';
 const Login = () => {
     return (
         <div>
-            <h1>This is login</h1>
+            <h2>Please Login</h2>
+            <button>Google Sign In</button>
         </div>
     );
 };
